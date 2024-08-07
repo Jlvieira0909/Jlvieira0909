@@ -1,7 +1,6 @@
 <h1>Hey! Thank you for landing here!</h1>
 
-![Don Toliver and Travis Scott](https://media.giphy.com/media/L0aAMGbDzWFIudJh3J/giphy.gif)
-
+<img src="https://media.giphy.com/media/L0aAMGbDzWFIudJh3J/giphy.gif" width="240" height="135">
 <p>Welcome to my page! </br> I'm João Luiz, I'm a Web Developer/Web Designer</p>
 <h3>Currently i code with:</h3>
 <p>
