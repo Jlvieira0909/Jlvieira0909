@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Thank you for landing here!</h1>
+<h1><iframe src="https://giphy.com/embed/L0aAMGbDzWFIudJh3J" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dontoliver-travis-scott-don-toliver-flocky-L0aAMGbDzWFIudJh3J">via GIPHY</a></p> Hey! Thank you for landing here!</h1>
 
 <p>Welcome to my page! </br> I'm João Luiz, I'm a Web Developer/Web Designer</p>
 <h3>Currently i code with:</h3>
@@ -39,7 +39,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-<h3>Where to find me</h3>
+<h3>Where to find me:</h3>
 <p><a href="https://github.com/Jlvieira0909" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/joaoluizv" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.behance.net/joaoluiz7" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
 
