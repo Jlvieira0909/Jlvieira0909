@@ -1,4 +1,6 @@
-<h1><iframe src="https://giphy.com/embed/L0aAMGbDzWFIudJh3J" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dontoliver-travis-scott-don-toliver-flocky-L0aAMGbDzWFIudJh3J">via GIPHY</a></p> Hey! Thank you for landing here!</h1>
+<h1>Hey! Thank you for landing here!</h1>
+<iframe src="https://giphy.com/embed/L0aAMGbDzWFIudJh3J" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/dontoliver-travis-scott-don-toliver-flocky-L0aAMGbDzWFIudJh3J">via GIPHY</a></p>
 
 <p>Welcome to my page! </br> I'm João Luiz, I'm a Web Developer/Web Designer</p>
 <h3>Currently i code with:</h3>
