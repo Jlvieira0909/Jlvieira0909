@@ -1,4 +1,4 @@
-<h1>Hey! Thank you for landing here!</h1>
+<h1>Hey! Thanx for landing here!</h1>
 
 <img src="https://media.giphy.com/media/L0aAMGbDzWFIudJh3J/giphy.gif" width="220" height="165">
 <p>Welcome to my page! </br> I'm João Luiz, I'm a Web Developer/Web Designer</p>
