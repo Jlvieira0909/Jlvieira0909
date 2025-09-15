@@ -1,7 +1,7 @@
 <h1>Hey! Thx for landing here!</h1>
 
 <img src="https://media.giphy.com/media/L0aAMGbDzWFIudJh3J/giphy.gif" width="220" height="165">
-<p>Welcome to my page! </br> I'm João Luiz, I'm a Web Developer/Web Designer</p>
+<p>Welcome to my page! </br> My name is João Luiz, I'm a Web Developer/Web Designer</p>
 <h3>Currently i code with:</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
