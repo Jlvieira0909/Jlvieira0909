@@ -44,5 +44,10 @@
 <p><a href="https://github.com/Jlvieira0909" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/joaoluizv" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.behance.net/joaoluiz7" target="_blank"><img alt="Behance" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
 
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=jlvieira09">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=jlvieira09" alt="Data Card for Spotify">
+</a>
+
 ------------
 # Jlvieira0909
