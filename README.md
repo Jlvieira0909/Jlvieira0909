@@ -21,8 +21,8 @@
       </ul>
       <h2>Contact</h2>
       <ul>
-        <li>Instagram: <a href="https://www.instagram.com/hypemind.inc">HypeMind.Inc</a></li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/joaoluizv/">João Vieira</a></li>
+        <li>Instagram: <a href="https://www.instagram.com/hypemind.inc" target="_blank">HypeMind.Inc</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/joaoluizv/" target="_blank">João Vieira</a></li>
       </ul>
     </td>
   </tr>
